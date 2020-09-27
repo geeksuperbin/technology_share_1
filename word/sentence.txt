@@ -1,23 +1,27 @@
-Donald Trump was roundly rebuked by Republicans after he refused to commit to a peaceful transfer of power if he loses to Joe Biden in November’s US election.
+Study suggests few Americans have Covid-19 antibodies
 
-Mitch McConnell, the Republican Senate majority leader who rarely censures Mr Trump, wrote on Twitter that there would be an “orderly transition just as there has been every four years since 1792” — a reference to the re-election of George Washington.
+Survey of dialysis patients indicates majority may not have an immune response despite high infection numbers
 
-His comment came amid a storm of anger about Mr Trump’s response to a question on Wednesday, when asked if he would commit to a peaceful transfer of power in the event that he lost the November ballot. Mr Trump replied: “We’re going to have to see what happens.”
+发布于2020年9月26日 06:36 By Hannah Kuchler in New York
 
-Mitt Romney, the Utah senator and former Republican presidential nominee, attacked Mr Trump, saying the peaceful transition of power was what separated the US from authoritarian regimes.
+Fewer than 10 per cent of Americans have antibodies that could protect them from developing Covid-19, according to the first nationally representative survey that shows the vast majority still have not developed an immune response to the virus.
 
-“Fundamental to democracy is the peaceful transition of power. Without that, there is Belarus,” he tweeted. “Any suggestion that a president might not respect this constitutional guarantee is both unthinkable and unacceptable.”
+The serological survey of dialysis patients, published in the medical journal The Lancet on Friday, also found that black and Hispanic communities had two to four times higher rates of antibodies to Sars-Cov-2, the virus that causes Covid-19, after they were hit harder by outbreaks earlier this year. 
 
-Some of Mr Trump’s closest allies, including Lindsey Graham, the Republican chairman of the Senate judiciary committee, also pushed back against his remarks, saying Republicans would accept losing the White House, and would accept any Supreme Court ruling in favour of Mr Biden.
+The Lancet survey was conducted on more than 28,000 dialysis patients, who were easy to follow because they regularly have blood drawn and access to healthcare through Medicare. They also tend to be older and more likely to live in poverty, which have been identified as risk factors for Covid-19.
 
-Liz Cheney, the number three Republican in the House of Representatives, also rebuked Mr Trump. “The peaceful transfer of power is enshrined in our constitution and fundamental to the survival of our republic,” said Ms Cheney, who is viewed as a possible future presidential contender.
+The study’s authors acknowledged there were some differences from the general population that could affect the figures: for example, they might be more exposed because they often take shared transportation to get to dialysis, or less exposed, because they were less likely to work. 
 
-Nancy Pelosi, the Democratic speaker of the House of Representatives, chastised Mr Trump, saying it was “very sad” that he was undermining US democracy, adding that the country was not North Korea or Russia.
+Professor Barnaby Flower and Professor Christina Atchison, from Imperial College London, who were not involved in the study, praised it for finding a way to track antibodies across the country and over time, including the opportunity to improve the understanding of how long an immune response lasts.
 
-“You are in the United States . . . it is a democracy,” she said. “So, why don’t you just try for a moment to honour our oath of office to the constitution.”
+In a comment also published in the journal, they said that “despite the massive burden of Covid-19 in the USA”, the study shows only a “small minority has immunity”. 
 
-Mr Biden, the Democratic presidential nominee, asked: “What country are we in?” when asked about the controversy. “He says the most irrational things,” he said of the president.
+Julie Parsonnet, a professor of medicine at Stanford University and author of the study, said vulnerable populations would need to be protected until an effective vaccine is approved.
 
-Mr Trump has long refused to say that he would accept the outcome of the election. He has claimed that the expected rise in postal ballots because of the pandemic was an “out of control” disaster that would help Mr Biden. But he went further on Wednesday by not committing to a peaceful transfer.
+“This research clearly confirms that despite high rates of Covid-19 in the United States, the number of people with antibodies is still low and we haven’t come close to achieving herd immunity,” she said. 
 
-Americans are expected to vote by post in far larger numbers this year because of the pandemic. But Christopher Wray, the FBI director who was appointed by Mr Trump, recently told Congress there was no evidence that the US electoral process had ever been tarnished with the kind of widescale fraud that Mr Trump has alleged has occurred in the past.
+Higher rates of antibodies were found in the north-east, with New York state, the early epicentre of the virus in the US, having by far the most, at 21.5 per cent of the population. The west was the region with the lowest rates, between 3.6 and 4.9 per cent. 
+
+The study, conducted in July, comes as US public health leaders are pushing back against an argument from some allies of President Donald Trump that certain communities could be near herd immunity, the point at which a virus has difficulty spreading because so many people are immune.
+
+Robert Redfield, director of the Centers for Disease Control and Prevention, told Congress on Wednesday that its data showed about 90 per cent of the population “remains susceptible”. He was later accused of using old data by Scott Atlas, a White House adviser on the coronavirus who is not an infectious disease specialist.

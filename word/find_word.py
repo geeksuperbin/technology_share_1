@@ -38,14 +38,21 @@ ugly_content = str(content)
 # print(exclude_content)
 # exit()
 
-
+old_list = []
 word_list= []
 # 从句子中爆破出单词
 for sentence in sentences:
     for token in sentence:
         if(token.token_class == 'symbol' or token.token_class == 'emoticon'):
             continue
+
+        # 如果是时间、年份、或数字也过滤
+        if(re.search('\d', token.text)):
+            continue
         
+        old_list.append(token.text)
+
+
         # 排除大小写的相同单词
         if((token.text).lower() in exclude_content):
             continue
@@ -62,9 +69,7 @@ for sentence in sentences:
         if((token.text).capitalize() in ugly_content):
             continue
         
-        # 如果是时间、年份、或数字也过滤
-        if(re.search('\d', token.text)):
-            continue
+      
 
         # print(token.text)
 
@@ -77,4 +82,10 @@ for sentence in sentences:
 
 
 print(word_list)
-print(len(word_list))
+
+print("+++++++++++++++++++++++++++")
+print("Vocabulary PDCA")
+print("原始单词数：", len(old_list))
+print("陌生单词数：", len(word_list))
+print("量化陌生度：", len(word_list) / len(old_list))
+print("+++++++++++++++++++++++++++")
